@@ -1,9 +1,4 @@
-# dcit318-assignment1-11159995
-
-## C# Grade Calculating Program
-
-```csharp
-using System;
+﻿using System;
 
 class Program
 {
@@ -37,4 +32,4 @@ class Program
         }
     }
 }
-```
+

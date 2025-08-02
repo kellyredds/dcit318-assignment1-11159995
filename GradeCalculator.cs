@@ -1,11 +1,6 @@
-# dcit318-assignment1-11159995
-
-## C# Grade Calculating Program
-
-```csharp
 using System;
 
-class Program
+class GradeCalculator
 {
     static void Main()
     {
@@ -37,4 +32,3 @@ class Program
         }
     }
 }
-```

@@ -1,0 +1,15 @@
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\bin\Debug\net9.0\TempGradeCalcApp.exe
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\bin\Debug\net9.0\TempGradeCalcApp.deps.json
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\bin\Debug\net9.0\TempGradeCalcApp.runtimeconfig.json
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\bin\Debug\net9.0\TempGradeCalcApp.dll
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\bin\Debug\net9.0\TempGradeCalcApp.pdb
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.sourcelink.json
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.dll
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\refint\TempGradeCalcApp.dll
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.pdb
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\TempGradeCalcApp.genruntimeconfig.cache
+C:\Users\kelly\OneDrive\Documents\GitHub\dcit318-assignment1-11159995\TempGradeCalcApp\obj\Debug\net9.0\ref\TempGradeCalcApp.dll
